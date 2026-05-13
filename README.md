@@ -37,6 +37,4 @@ The system consists of three primary nodes:
    - pip install -r requirements.txt
 
 6. **Launch the Dashboard:**
-   ```bash
    streamlit run app.py
-   ```
