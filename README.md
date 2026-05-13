@@ -30,10 +30,8 @@ The system consists of three primary nodes:
 
 2. **Setup Environment:**
    Create a `.env` file with your credentials:
-   ```env
    OPENAI_API_KEY=sk-your-key
    TAVILY_API_KEY=tvly-your-key
-   ```
 
 3. **Install Dependencies:**
    ```bash
