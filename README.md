@@ -29,14 +29,14 @@ The system consists of three primary nodes:
    - cd Multi-Agent-Researcher
 
 2. **Setup Environment:**
-   Create a `.env` file with your credentials:
+   - Create a `.env` file with your credentials:
    - OPENAI_API_KEY=sk-your-key
    - TAVILY_API_KEY=tvly-your-key
 
-3. **Install Dependencies:**
+4. **Install Dependencies:**
    pip install -r requirements.txt
 
-4. **Launch the Dashboard:**
+5. **Launch the Dashboard:**
    ```bash
    streamlit run app.py
    ```
