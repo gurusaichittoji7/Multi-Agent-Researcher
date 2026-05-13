@@ -25,8 +25,8 @@ The system consists of three primary nodes:
 ## 🚀 Installation & Usage
 
 1. **Clone the repository:**
-   git clone https://github.com/YOUR_USERNAME/Multi-Agent-Researcher.git '''
-   cd Multi-Agent-Researcher
+   - git clone https://github.com/YOUR_USERNAME/Multi-Agent-Researcher.git
+   - cd Multi-Agent-Researcher
 
 2. **Setup Environment:**
    Create a `.env` file with your credentials:
