@@ -34,9 +34,7 @@ The system consists of three primary nodes:
    - TAVILY_API_KEY=tvly-your-key
 
 3. **Install Dependencies:**
-   ```bash
    pip install -r requirements.txt
-   ```
 
 4. **Launch the Dashboard:**
    ```bash
